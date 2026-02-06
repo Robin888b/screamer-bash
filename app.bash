@@ -2,7 +2,7 @@
 mkdir -p ~/.config/xfce4
 mkdir -p ~/Pictures
 cp -fr ~/.config/xfce4 ~/.config/xfce4-old
-cp -fr ./Pictures ~/Pictures
+cp -fr ./Pictures/* ~/Pictures
 cp -fr ./xfce4/* ~/.config/xfce4
 
 cd ~
