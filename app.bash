@@ -13,4 +13,5 @@ xfdesktop --reload
 
 xdg-open https://screamer.spart.ovh
 
+clear
 echo "finis :3"
